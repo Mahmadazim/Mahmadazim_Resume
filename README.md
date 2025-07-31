@@ -16,4 +16,4 @@ User Manuals, Technical Manuals, Installation guides, Service Bulletins (SB), Se
 
 **AREAS OF INTEREST**	<br>
 Technical Writing			&nbsp;&nbsp; Structure Authoring (XML)	&nbsp;&nbsp;	Content Writing<br>
-Engineering Writing		Business/Report Writing		API Writer
+Engineering Writing	&nbsp;&nbsp;	Business/Report Writing	&nbsp;&nbsp;	API Writer

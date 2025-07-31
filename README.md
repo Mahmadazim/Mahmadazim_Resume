@@ -28,3 +28,8 @@ Engineering Writing	&nbsp;&nbsp;	Business/Report Writing	&nbsp;&nbsp;	API Writer
 •	Proficient to expert level in using documentation tools (FrameMaker, Robo-Help, MS Office Suite, Illustrator, Snag-IT, Adobe Acrobat, MS Visio and Photoshop)<br>
 •	Ability to publish documents to multiple channels, such as Print, Web, Desktop, Mobile Devices and Tablets (i.e., Multi screen responsive HTML5 outputs) by using Help Authoring tools.<br>
 •	Experience in proofreading the content, marking errors or queries regarding style and accuracy.<br>
+
+**OTHER IMPORTANT SKILLS**<br>   
+Documentation Development Life Cycle (DDLC), &nbsp;Software Development Life Cycle (SDLC),&nbsp; Agile Methodology,&nbsp; Information Mapping Principles,&nbsp; Topic Based authoring, &nbsp;Content Management System,&nbsp; Wikis,&nbsp; create influential PowerPoint presentations.
+
+

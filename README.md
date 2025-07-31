@@ -17,3 +17,14 @@ User Manuals, Technical Manuals, Installation guides, Service Bulletins (SB), Se
 **AREAS OF INTEREST**	<br>
 Technical Writing			&nbsp;&nbsp; Structure Authoring (XML)	&nbsp;&nbsp;	Content Writing<br>
 Engineering Writing	&nbsp;&nbsp;	Business/Report Writing	&nbsp;&nbsp;	API Writer
+
+**KEY SKILLS**<br>
+•	Experience in developing and delivering high quality technical documentation while working with developers, network engineers, architects and project managers to better understand their needs and business cases, get their feedback, provide information, and communicate changes in the documentation over the course of the project.<br>
+•	Experience working with complex software, hardware/manufacturing products and producing easy to understand technical documents such as Users Guides, Online help, Release Notes, and Administrator Guides.<br>
+•	Ability to understand requirements and deliver clear and concise quality documents. <br>
+•	Experience in understanding of the Documentation Development Life Cycle (DDLC) or Technical Writing Process and documents involved in the Software Development Life Cycle (SDLC). <br>
+•	Experience working with complex software, hardware/manufacturing products, and producing easy to understand technical documents.<br>
+•	Knowledge of agile environment, creation of user stories, sprint planning, software / support documentation and product guides.<br>
+•	Proficient to expert level in using documentation tools (FrameMaker, Robo-Help, MS Office Suite, Illustrator, Snag-IT, Adobe Acrobat, MS Visio and Photoshop)<br>
+•	Ability to publish documents to multiple channels, such as Print, Web, Desktop, Mobile Devices and Tablets (i.e., Multi screen responsive HTML5 outputs) by using Help Authoring tools.<br>
+•	Experience in proofreading the content, marking errors or queries regarding style and accuracy.<br>

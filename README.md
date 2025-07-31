@@ -15,5 +15,5 @@ Detail-oriented and versatile Technical Writer with 3.5 years of experience crea
 User Manuals, Technical Manuals, Installation guides, Service Bulletins (SB), Service/Maintenance Manuals, Standard Operating Procedure (SOP), Maintenance Manuals, End-user documents, Component Maintenance Manuals, Online Help System and Release notes.
 
 **AREAS OF INTEREST**	<br>
-Technical Writing			Structure Authoring (XML)		Content Writing<br>
+Technical Writing			&nbsp;&nbsp; Structure Authoring (XML)	&nbsp;&nbsp;	Content Writing<br>
 Engineering Writing		Business/Report Writing		API Writer

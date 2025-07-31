@@ -19,7 +19,7 @@ Technical Writing			&nbsp;&nbsp; Structure Authoring (XML)	&nbsp;&nbsp;	Content 
 Engineering Writing	&nbsp;&nbsp;	Business/Report Writing	&nbsp;&nbsp;	API Writer
 
 **KEY SKILLS**<br>
-•	Experience in developing and delivering high quality technical documentation while working with developers, network engineers, architects and project managers to better understand their needs and business cases, get their feedback, provide information, and communicate changes in the documentation over the course of the project.<br>
+•	Experience in developing and delivering high quality technical documentation while working with developers, network engineers, architects and project managers to better understand their needs and business cases, get their feedback, provide    information, and communicate changes in the documentation over the course of the project.<br>
 •	Experience working with complex software, hardware/manufacturing products and producing easy to understand technical documents such as Users Guides, Online help, Release Notes, and Administrator Guides.<br>
 •	Ability to understand requirements and deliver clear and concise quality documents. <br>
 •	Experience in understanding of the Documentation Development Life Cycle (DDLC) or Technical Writing Process and documents involved in the Software Development Life Cycle (SDLC). <br>

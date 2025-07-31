@@ -32,4 +32,25 @@ Engineering Writing	&nbsp;&nbsp;	Business/Report Writing	&nbsp;&nbsp;	API Writer
 **OTHER IMPORTANT SKILLS**<br>
 Documentation Development Life Cycle (DDLC), &nbsp;Software Development Life Cycle (SDLC),&nbsp; Agile Methodology,&nbsp; Information Mapping Principles,&nbsp; Topic Based authoring, &nbsp;Content Management System,&nbsp; Wikis,&nbsp; create influential PowerPoint presentations.
 
+**TECHNICAL WRITING SOFTWARE TOOL SKILLS**<br>
+Help Authoring Tools		:  Adobe RoboHelp, MadCap Flare<br>
+Print Publishing Tools	:   MS-Word, Adobe Frame Maker<br>
+Mark-up Languages			  :   DITA XML, HTML<br>
+Image Capturing Tools		:   Snag IT, RoboCapture<br>
+Illustrator Tools			  :   AutoCAD, Tech - illustrator, SEE-XP V4<br>
+Graphic Tools			      :   Adobe Photoshop, MS-Visio<br>
+Presentation Tool			  :   Microsoft PowerPoint<br>
+Authoring tools			    :  Adobe FrameMaker, Basics of Oxygen XML<br>
+Project Management Tool	:  JIRA, DAOS, Swip<br>
+
+**EDUCATION DETAILS**<br>
+•	BE -- Electrical & Electronics Engineering, Tontadarya College of Engineering, Gadag, Karnataka.<br>
+•	Diploma -- Electrical & Electronics, Anjuman-E-Islam Polytechnic, Gadag, Karnataka.<br>
+•	Secondary Education -- V.D.S.T.C Boys High School, Gadag, Karnataka.<br>
+
+**CERTIFICATIONS**<br>
+•	Certified in Technical writing from IIM Skills, Delhi.<br>
+•	Certified in JIRA Project management tool, from Great Learning.<br>
+
+
 

@@ -33,15 +33,15 @@ Engineering Writing	&nbsp;&nbsp;	Business/Report Writing	&nbsp;&nbsp;	API Writer
 Documentation Development Life Cycle (DDLC), &nbsp;Software Development Life Cycle (SDLC),&nbsp; Agile Methodology,&nbsp; Information Mapping Principles,&nbsp; Topic Based authoring, &nbsp;Content Management System,&nbsp; Wikis,&nbsp; create influential PowerPoint presentations.
 
 **TECHNICAL WRITING SOFTWARE TOOL SKILLS**<br>
-Help Authoring Tools		:  Adobe RoboHelp, MadCap Flare<br>
-Print Publishing Tools	:   MS-Word, Adobe Frame Maker<br>
-Mark-up Languages			  :   DITA XML, HTML<br>
-Image Capturing Tools		:   Snag IT, RoboCapture<br>
-Illustrator Tools			  :   AutoCAD, Tech - illustrator, SEE-XP V4<br>
-Graphic Tools			      :   Adobe Photoshop, MS-Visio<br>
-Presentation Tool			  :   Microsoft PowerPoint<br>
-Authoring tools			    :  Adobe FrameMaker, Basics of Oxygen XML<br>
-Project Management Tool	:  JIRA, DAOS, Swip<br>
+Help Authoring Tools&nbsp;&nbsp;:&nbsp;&nbsp;Adobe RoboHelp, MadCap Flare<br>
+Print Publishing Tools&nbsp;&nbsp;:&nbsp;&nbsp;MS-Word, Adobe Frame Maker<br>
+Mark-up Languages&nbsp;&nbsp;:&nbsp;&nbsp;DITA XML, HTML<br>
+Image Capturing Tools&nbsp;&nbsp;:   Snag IT, RoboCapture<br>
+Illustrator Tools&nbsp;&nbsp;:AutoCAD, Tech - illustrator, SEE-XP V4<br>
+Graphic Tools&nbsp;&nbsp;:&nbsp;&nbsp;   Adobe Photoshop, MS-Visio<br>
+Presentation Tool&nbsp;&nbsp;:&nbsp;&nbsp;   Microsoft PowerPoint<br>
+Authoring tools&nbsp;&nbsp;:&nbsp;&nbsp;  Adobe FrameMaker, Basics of Oxygen XML<br>
+Project Management Tool&nbsp;&nbsp;:&nbsp;&nbsp;  JIRA, DAOS, Swip<br>
 
 **EDUCATION DETAILS**<br>
 •	BE -- Electrical & Electronics Engineering, Tontadarya College of Engineering, Gadag, Karnataka.<br>

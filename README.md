@@ -52,5 +52,31 @@ Project Management Tool&nbsp;&nbsp;:&nbsp;&nbsp;  JIRA, DAOS, Swip<br>
 •	Certified in Technical writing from IIM Skills, Delhi.<br>
 •	Certified in JIRA Project management tool, from Great Learning.<br>
 
+**PROFESSIONAL EXPERIENCE**<br>
+**Designation**: Technical Writer<br> 
+**Organization Name**: Sonovision Aetos Technical Service Pvt Ltd, Bangalore, Karnataka<br> 
+**Duration**: August 2021 to Present<br>
+**Responsibilities**<br>
+•	Creating and updating of technical manuals, User manual, Installation guides, and End−user document as per client requirement.<br>
+•	Proof reading documents for format, consistency, grammar, syntax, spelling, accuracy, adherence to company standards, and compliance with legal guidelines.<br>
+•	Research and transform complex technical concepts, specifications, and procedures into user-oriented information for non-technical and technical audiences.<br>
+•	Create hyperlinks, bookmarks, styles, templates, cross-references, related topics, glossary, index, Table of Contents, Table of Figures, Conditional tags, Snippets and captions in the documents.<br>
+•	Creating standard document format (Template) for aligning all technical/operational SOPs (Standard Operating Procedures).<br>
+•	Gather information from Subject Matter Experts (SME’s) and understand the technicality of any product.<br>
+•	Review functional requirement and other technical documents to understand product functionality and its nature of requirement.<br> 
+• Release finished documentation to Document Control, and maintain organized records of all materials, drafts, and previous versions.<br>
+
+**PERSONAL INFORMATION**<br>
+Date of Birth&nbsp;&nbsp;: &nbsp;&nbsp; 26-11-1997<br>
+Marital status&nbsp;&nbsp:&nbsp;&nbsp  Unmarried<br>
+Address&nbsp;&nbsp:&nbsp;&nbsp  Rachoteshwar Nagar, Behind Vijayanagar High school, Gadag<br>
+
+**DECLARATION**
+I hereby confirm that the above-mentioned information is true to the best of my knowledge.<br> 
+
+
+Date:<br> 
+Place: Gadag<br> &nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp       (MAHMADAZIM)
+
 
 

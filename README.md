@@ -2,10 +2,10 @@
 Resume for Technical writer
 
 
-MAHMADAZIM DODDAMANI<br>
+**MAHMADAZIM DODDAMANI<br>
 Email: mahmadazimdoddamani@gmail.com<br>
 Phone: +91-8971108409/7483741965<br>
-LinkedIn: linkedin.com/in/mahmad-azim-11b24a23a<br>
+LinkedIn: linkedin.com/in/mahmad-azim-11b24a23a**<br>
 <br>
 **CAREER OBJECTIVE**
 <br>
@@ -29,7 +29,7 @@ Engineering Writing	&nbsp;&nbsp;	Business/Report Writing	&nbsp;&nbsp;	API Writer
 •	Ability to publish documents to multiple channels, such as Print, Web, Desktop, Mobile Devices and Tablets (i.e., Multi screen responsive HTML5 outputs) by using Help Authoring tools.<br>
 •	Experience in proofreading the content, marking errors or queries regarding style and accuracy.<br>
 
-**OTHER IMPORTANT SKILLS**<br>   
+**OTHER IMPORTANT SKILLS**<br>
 Documentation Development Life Cycle (DDLC), &nbsp;Software Development Life Cycle (SDLC),&nbsp; Agile Methodology,&nbsp; Information Mapping Principles,&nbsp; Topic Based authoring, &nbsp;Content Management System,&nbsp; Wikis,&nbsp; create influential PowerPoint presentations.
 
 

@@ -37,7 +37,7 @@ Help Authoring Tools&nbsp;&nbsp;:&nbsp;&nbsp;Adobe RoboHelp, MadCap Flare<br>
 Print Publishing Tools&nbsp;&nbsp;:&nbsp;&nbsp;MS-Word, Adobe Frame Maker<br>
 Mark-up Languages&nbsp;&nbsp;:&nbsp;&nbsp;DITA XML, HTML<br>
 Image Capturing Tools&nbsp;&nbsp;:   Snag IT, RoboCapture<br>
-Illustrator Tools&nbsp;&nbsp;:AutoCAD, Tech - illustrator, SEE-XP V4<br>
+Illustrator Tools&nbsp;&nbsp;:&nbsp;&nbsp;AutoCAD, Tech - illustrator, SEE-XP V4<br>
 Graphic Tools&nbsp;&nbsp;:&nbsp;&nbsp;   Adobe Photoshop, MS-Visio<br>
 Presentation Tool&nbsp;&nbsp;:&nbsp;&nbsp;   Microsoft PowerPoint<br>
 Authoring tools&nbsp;&nbsp;:&nbsp;&nbsp;  Adobe FrameMaker, Basics of Oxygen XML<br>

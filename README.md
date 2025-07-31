@@ -5,7 +5,7 @@ Resume for Technical writer
 MAHMADAZIM DODDAMANI<br>
 Email: mahmadazimdoddamani@gmail.com<br>
 Phone: +91-8971108409/7483741965<br>
-LinkedIn:linkedin.com/in/mahmad-azim-11b24a23a<br>
+LinkedIn: linkedin.com/in/mahmad-azim-11b24a23a<br>
 <br>
 **CAREER OBJECTIVE**
 <br>

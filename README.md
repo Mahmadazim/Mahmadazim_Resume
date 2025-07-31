@@ -1,2 +1,2 @@
 # Mahmadazim_Resume
-Resume
+Resume for Technical writer
